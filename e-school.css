@@ -1,0 +1,189 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width: 240px;
+    float: left;
+    position: absolute;
+    left: 125px;
+}
+li a{
+    color: black;
+    font-weight: 600;
+}
+ a:hover{
+    border-bottom: 2px solid #003bfc;
+}
+li a.sign{
+    color: white;
+    background-color: #0d6efd;
+    border-radius: 27px;
+}
+li a.sign:hover{
+    background-color: #003bfc;
+}
+.nav{
+    margin-top: 15px;
+}
+.row{
+    width: 100.8%;
+    background-color: #e7ffe7;
+    padding-bottom: 40px;
+    margin-top: 60px;
+}
+.bannerimg{
+    width: 715px;
+}
+.leftcol{
+    width: 664px;
+    padding-top: 216px;
+    padding-left: 149px;
+}
+.leftcol p{
+    color: orange;
+}
+.leftcol h1{
+    font-weight: 900;
+    color: #00fcff;
+    letter-spacing: 1.3px;
+}
+.leftcol h6{
+    color: #000000a1;
+    padding-top: 30px;
+    letter-spacing: 1.4px;
+}
+.leftcol button{
+    background-color: #0a58ca;
+    border-radius: 27px;
+    width: 107px;
+    height: 40px;
+    border: 0;
+    margin-top: 65px;
+}
+.leftcol button:hover{
+    background-color: #003bfc;
+
+}
+.leftcol button a{
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+}
+.rightcol{
+    padding-top: 116px;
+}
+.firstbook img{
+    width: 100px;
+}
+.books{
+    width: 210px;
+}
+.firstbook{
+    background-color: #f3feff;
+ transition: 0.4s;
+}
+.firstbook:hover{
+    transform: scale(1.1);
+}
+.firstbook h3{
+    text-align: center;
+}
+.firstbook p{
+    text-align: center;
+}
+.books img{
+    margin-left: 40px;
+}
+.firstbook img.firstbk{
+    width: 85px;
+}
+.bkrow{
+    margin-top: 150px;
+    padding-left: 360px;
+    background-color: white;
+  
+}
+.row3{
+    background-color: white;
+}
+.row3img{
+    padding: 20px 15px 20px 5px;
+}
+.col{
+    box-shadow: -1px -1px 8px 2px #ececec;
+    border: 0;
+}
+
+.card{
+    border: 0;
+    transition: 0.4s;
+}
+.buy{
+    background-color:  #4ed6ff;
+    border: 0;
+    padding: 8px 12px;
+    border-radius: 20px;
+    font-weight: 900;
+    color: white;
+}
+.buy:hover{
+    background-color: #00c3ff ;
+}
+.online{
+    text-align: center;
+}
+.last{
+    width: 900px;
+    margin: auto;
+    margin-top: 90px;
+    margin-bottom: 150px;
+}
+.last>img{
+    width: 160px;
+    float: left;
+}
+.last>h6{
+    font-size: 1rem;
+    padding-top: 35px;
+    margin-left: 200px;
+    line-height: 1.6;
+    letter-spacing: 1px;
+}
+.lasth{
+    text-align: center;
+    margin-top: 100px;
+    font-weight: 900;
+    letter-spacing: 1px;
+}
+footer{
+    height: 45vh;
+    background-color: rgb(21 27 49) ;
+}
+.ftr{
+    background-color: rgb(21 27 49) ;
+    padding-top: 50px;
+}
+.ftr a{
+    text-decoration: none;
+    color: rgba(245, 245, 245, 0.753);
+    
+   
+}
+.ftr h5{
+    color: white;
+}
+.ftr a:hover{
+    color: white;
+}
+.lastcol{
+    margin-left: -70px;
+}
+.small{
+    color: white;
+    margin-left: 600px;
+    
+}
+.card:hover{
+    transform: scale(1.1);
+}
